@@ -25,7 +25,7 @@ SECRET_KEY = 'xe@fq(=+psv+1ncpzgk1@&ugb8-j2wvsyw5_zs=9ntmyo!6(&8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mamadou.pythonanywhere.com']
 
 
 # Application definition
